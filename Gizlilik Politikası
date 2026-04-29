@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gizlilik Politikası - Vakitler</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        h1 { color: #10b981; }
+        h2 { color: #059669; margin-top: 30px; }
+        .last-updated { color: #666; font-style: italic; }
+    </style>
+</head>
+<body>
+    <h1>Gizlilik Politikası</h1>
+    <p class="last-updated">Son Güncelleme: 1 Ocak 2024</p>
+
+    <h2>1. Giriş</h2>
+    <p>
+        Vakitler uygulaması ("Uygulama"), kullanıcılarının gizliliğini korumayı taahhüt eder. 
+        Bu Gizlilik Politikası, kişisel bilgilerinizin nasıl toplandığını, kullanıldığını ve 
+        korunduğunu açıklar.
+    </p>
+
+    <h2>2. Toplanan Bilgiler</h2>
+    
+    <h3>2.1 Otomatik Olarak Toplanan Bilgiler</h3>
+    <ul>
+        <li><strong>Konum Bilgisi:</strong> Namaz vakitlerini hesaplamak için cihazınızın konum bilgisi kullanılır.</li>
+        <li><strong>Cihaz Bilgisi:</strong> Cihaz türü, işletim sistemi versiyonu.</li>
+        <li><strong>Kullanım İstatistikleri:</strong> Uygulama içi kullanım verileri (hangi özelliklerin kullanıldığı).</li>
+    </ul>
+
+    <h3>2.2 Kullanıcı Tarafından Sağlanan Bilgiler</h3>
+    <ul>
+        <li><strong>Hesap Bilgileri:</strong> E-posta adresi, isim (kayıt olunması halinde).</li>
+        <li><strong>Tercihler:</strong> Bildirim ayarları, tema seçimi, dil tercihi.</li>
+        <li><strong>Favoriler:</strong> Favori dualar, zikirler.</li>
+    </ul>
+
+    <h2>3. Bilgilerin Kullanımı</h2>
+    <p>Toplanan bilgiler şu amaçlarla kullanılır:</p>
+    <ul>
+        <li>Namaz vakitlerini konumunuza göre hesaplamak</li>
+        <li>Kıble yönünü belirlemek</li>
+        <li>Bildirim göndermek</li>
+        <li>Uygulama deneyimini kişiselleştirmek</li>
+        <li>Uygulama performansını iyileştirmek</li>
+        <li>Teknik destek sağlamak</li>
+    </ul>
+
+    <h2>4. Bilgilerin Paylaşımı</h2>
+    <p>Kişisel bilgileriniz aşağıdaki durumlar dışında üçüncü şahıslarla paylaşılmaz:</p>
+    <ul>
+        <li>Yasal zorunluluklar</li>
+        <li>Kullanıcının açık izni</li>
+        <li>Hizmet sağlayıcılar (API'ler) - sadece gerekli bilgiler</li>
+    </ul>
+
+    <h3>4.1 Kullanılan Üçüncü Taraf Hizmetleri</h3>
+    <ul>
+        <li><strong>Aladhan API:</strong> Namaz vakitlerini sağlamak için</li>
+        <li><strong>AlQuran Cloud API:</strong> Kuran verilerini sağlamak için</li>
+        <li><strong>Google Analytics:</strong> Kullanım istatistikleri için (anonim)</li>
+    </ul>
+
+    <h2>5. Veri Güvenliği</h2>
+    <p>
+        Bilgilerinizi korumak için endüstri standardı güvenlik önlemleri kullanıyoruz:
+    </p>
+    <ul>
+        <li>HTTPS şifrelemesi</li>
+        <li>Güvenli veri depolama</li>
+        <li>Erişim kontrolü</li>
+        <li>Düzenli güvenlik güncellemeleri</li>
+    </ul>
+
+    <h2>6. Konum Bilgisi</h2>
+    <p>
+        Konum bilginiz yalnızca cihazınızda ve uygulama içinde kullanılır. 
+        Sunucularımızda saklanmaz. Konum izni dilediğiniz zaman cihaz ayarlarından 
+        iptal edilebilir.
+    </p>
+
+    <h2>7. Çocukların Gizliliği</h2>
+    <p>
+        Uygulamamız 13 yaş altı çocuklardan bilerek kişisel bilgi toplamaz. 
+        Ebeveyn veya vasilerden bu konuda bilgi almamızı rica ederiz.
+    </p>
+
+    <h2>8. Çerezler ve Yerel Depolama</h2>
+    <p>
+        Uygulama deneyimini iyileştirmek için yerel depolama kullanıyoruz:
+    </p>
+    <ul>
+        <li>Kullanıcı tercihleri (tema, dil)</li>
+        <li>Offline erişim için önbellekleme</li>
+        <li>Oturum bilgileri</li>
+    </ul>
+
+    <h2>9. Kullanıcı Hakları</h2>
+    <p>Kullanıcılarımızın aşağıdaki hakları vardır:</p>
+    <ul>
+        <li>Kişisel verilerine erişim</li>
+        <li>Verilerin düzeltilmesini talep etme</li>
+        <li>Verilerin silinmesini talep etme</li>
+        <li>Veri işleme faaliyetlerine itiraz etme</li>
+        <li>Veri taşınabilirliği</li>
+    </ul>
+
+    <h2>10. Veri Saklama</h2>
+    <p>
+        Kişisel bilgileriniz, gerekli olduğu sürece saklanır. 
+        Hesabınızı sildiğinizde, tüm kişisel bilgileriniz 30 gün içinde silinir.
+    </p>
+
+    <h2>11. Politika Değişiklikleri</h2>
+    <p>
+        Bu Gizlilik Politikası zaman zaman güncellenebilir. Önemli değişiklikler 
+        hakkında uygulama içinde bilgilendirileceksiniz.
+    </p>
+
+    <h2>12. İletişim</h2>
+    <p>
+        Gizlilik politikası hakkında sorularınız için:
+    </p>
+    <ul>
+        <li>E-posta: privacy@vakitler.com</li>
+        <li>Web: www.vakitler.com/contact</li>
+    </ul>
+
+    <h2>13. KVKK Uyumu (Türkiye)</h2>
+    <p>
+        Uygulamamız, Türkiye Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında 
+        kişisel verilerinizi korumaktadır.
+    </p>
+
+    <h2>14. GDPR Uyumu (AB)</h2>
+    <p>
+        AB vatandaşları için GDPR (Genel Veri Koruma Yönetmeliği) haklarınız 
+        korunmaktadır.
+    </p>
+
+    <hr style="margin: 40px 0;">
+    <p style="text-align: center; color: #666;">
+        © 2024 Vakitler. Tüm hakları saklıdır.
+    </p>
+</body>
+</html>
